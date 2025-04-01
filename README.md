@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hydra1102)](https://solved.ac/wnsmir/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hydra1102)](https://solved.ac/hydra1102/)
