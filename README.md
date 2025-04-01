@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **wnsmir/wnsmir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/hydra1102/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsmir)](https://solved.ac/hydra1102/)
