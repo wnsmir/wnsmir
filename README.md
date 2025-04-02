@@ -10,6 +10,6 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnsmir&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnsmir&theme=merko)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hydra1102)](https://solved.ac/hydra1102/)
