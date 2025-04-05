@@ -6,7 +6,6 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white)
 
 #### 📌 Frameworks & Tools
-### 🧩 기술 스택
 
 #### 🛠 백엔드
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
