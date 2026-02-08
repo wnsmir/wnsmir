@@ -20,6 +20,6 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnsmir&theme=dark&show)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnsmir&theme=dark&show_icons=true)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hydra1102)](https://solved.ac/hydra1102/)
